@@ -5,8 +5,7 @@
 <br/>
 
 # Murat Aydoğan
-### 💻 Yazılım Geliştirici | public class Murat extends JavaDev&OOP {}
-
+### 💻 Yazılım Geliştirici | `public class Murat extends JavaDev&OOP {}`
 <br/>
 
 <p align="left">
@@ -19,37 +18,48 @@
 
 <br/>
 
-<h2>🛠️ Diller ve Araçlar</h2>
 
+<h3>💻 Programlama Dilleri</h3>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
+<h3>🌐 Web Teknolojileri</h3>
 <p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tkinter-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
 </p>
 
+<h3>🗄️ Veritabanı</h3>
 <p>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<h3>🤖 Yapay Zeka & Veri Bilimi</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<h3>⚙️ Araçlar & İş Akışları</h3>
+<p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<br/>
-
-<h2>📊 GitHub İstatistiklerim</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murataydogan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murataydogan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
+<h3>🧠 Temel Kavramlar</h3>
+<ul>
+  <li><b>Nesne Yönelimli Programlama (OOP)</b></li>
+  <li><b>Temiz Kod Prensipleri (Clean Code)</b></li>
+  <li><b>Algoritmalar & Veri Yapıları</b></li>
+</ul>
 
 <br/>
 
