@@ -6,7 +6,7 @@
 
 # Murat Aydoğan
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerbali&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=murataydogan&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
 ### 💻 Yazılım Geliştirici | `public class Murat extends JavaDev&OOP {}`
